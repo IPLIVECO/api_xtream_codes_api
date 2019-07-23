@@ -1,4 +1,6 @@
- ## Download api.php and upload to your web hosting, amend URL at top of api.php for your server 
+ ## How to:
+ 
+ Instructions: Download api.php and upload to your web hosting, amend URL at top of api.php for your server 
  
  * The methods are accessed via GET or POST by sending some parameters.
 
