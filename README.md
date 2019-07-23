@@ -1,4 +1,5 @@
-# USING THE SIMPLES SIMPLE API XTREAM
+ ## Download api.php and upload to your web hosting, amend URL at top of api.php for your server 
+ 
  * The methods are accessed via GET or POST by sending some parameters.
 
  * User login & password = Required on all requests
@@ -35,9 +36,9 @@
  
  * Call to convert the M3U list to JSON: api.php?op=lists&username=username&password=password
  
- # Make the calls through your browser by the URL you use there 
+ ## Make the calls through your browser by the URL you use there 
  * Example: www.mydomain.com/api.php?op=epgfull&username=username&password=password
 
-# Version 1.0 
+## Version 1.0 
  * Need to Treat and Adapt Arrys and Values
 
