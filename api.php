@@ -1,7 +1,7 @@
 <?php
 
 // IP or URL to Xtream-Codes
-define('IP','http://portal.coolasice.co:80');
+define('IP','http:/domain.com:port');
 
 function apixtream($url_api){	
 $ch = curl_init();	
